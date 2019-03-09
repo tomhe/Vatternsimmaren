@@ -41,7 +41,7 @@ Et puis tout est allé vite
 
 10
 00:01:00,520 --> 00:01:04,439
-Nous avons vu que le bateau est venu près de la plage
+Nous avons vu le bateau venir près de la plage
 
 11
 00:01:07,120 --> 00:01:11,079
@@ -64,12 +64,12 @@ Je ressens la pression du monde qui est venu ici
 15
 00:01:50,480 --> 00:01:57,120
 Puis je pense que je me suis retourné et
-fait signe d'au revoir aux gens sur la plage
+fait signe au revoir aux gens sur la plage
 
 16
 00:02:03,920 --> 00:02:10,240
 Ensuite je me suis mis dans l'eau
-et là je pensais que cela est irréalisable
+et là je pensais que cela était irréalisable
 
 17
 00:02:10,479 --> 00:02:12,960
@@ -78,11 +78,11 @@ Je me sentais incapable de respirer
 18
 00:02:13,120 --> 00:02:17,800
 Nager dans cette eau froid pendant 30 km
-est impossible
+serait impossible
 
 19
 00:02:18,000 --> 00:02:20,000
-C'était vraiment ardu
+C'était laborieux
 
 20
 00:02:20,120 --> 00:02:25,039
@@ -91,22 +91,22 @@ directement exposé au froid
 
 21
 00:02:26,240 --> 00:02:31,560
-J'avais le souffle coupé pendant les 10 à 15 premiers coups
+J'avais le souffle coupé pendant les 10 à 15 premiers mouvements
 Je me sentais incapable de respirer
 
 22
 00:02:33,400 --> 00:02:39,840
-Je me suis dit: Je ne peux pas abandonner maintenant ...
+Je me suis dit : Je ne peux pas abandonner maintenant ...
 Revenir et annoncer que c'est pour un autre jour
 
 23
 00:02:40,039 --> 00:02:43,599
-Il serait tellement stupide de renoncer
+Il serait tellement dommage de renoncer
 au bout de 100 mètres
 
 24
 00:02:44,240 --> 00:02:48,479
-Donc, je continuais à nager
+Donc, j'ai continué à nager
 Je ressentais trop de pression pour oser retourner au départ
 
 25
@@ -142,7 +142,7 @@ après avoir passé plus de la moitié de ma vie ici en Suède
 
 32
 00:03:31,919 --> 00:03:35,080
-Je suis venu en Suède pour terminer ma thèse de maîtrise
+Je suis venu en Suède pour terminer ma thèse
 
 33
 00:03:35,240 --> 00:03:40,000
@@ -151,8 +151,8 @@ Cela a pris un peu plus longtemps que prévu
 
 34
 00:03:42,520 --> 00:03:44,599
-Qu'est-ce que vous pensez?
-Va-t-il réussir?
+Qu'est-ce que vous pensez ?
+Va-t-il réussir ?
 
 35
 00:03:44,639 --> 00:03:45,919
@@ -165,17 +165,17 @@ Les 300 premiers mètres ont été très intenses
 37
 00:03:54,199 --> 00:03:58,280
 Je pensais constamment que j'allais échouer
-Mais alors la température d'eau est montée d'un demi-degré
+Mais soudain la température d'eau est montée d'un demi-degré
 
 38
 00:03:58,360 --> 00:04:03,919
-Sous l'influence du vent d'est il est typique ici dans la baie Varamon
+Dans baie Varamon, sous l'influence du vent d'est il est courant
 de voir la température d'eau baisser rapidement
 
 39
 00:04:04,039 --> 00:04:07,280
 Mais lentement l'eau devenait plus chaude
-Un demi-degré joue un rôle important
+Un demi-degré, ça joue beaucoup
 
 40
 00:04:07,560 --> 00:04:09,560
@@ -188,7 +188,7 @@ de respirer normalement
 
 42
 00:04:15,080 --> 00:04:17,519
-Alors, je me suis dit: continue
+Alors, je me suis dit : continue
 
 43
 00:04:18,879 --> 00:04:24,319
@@ -197,8 +197,8 @@ sur la nage pour me réchauffer
 
 44
 00:04:29,199 --> 00:04:36,959
-Le défi est d'essayer de nager de Karlsborg
-à Motala à travers le lac Vättern
+Le défi est d'essayer de traverser le lac Vättern
+de Karlsborg à Motala
 
 45
 00:04:37,639 --> 00:04:41,639
@@ -210,23 +210,23 @@ Au moins pas officiellement
 
 47
 00:04:45,759 --> 00:04:51,240
-L'idée est née à la crise de la quarantaine il y a deux ans
+L'idée est née lors de la crise de la quarantaine il y a deux ans
 
 48
 00:04:53,560 --> 00:04:57,600
-C'est de la nage pendant 30 km en eau libre
+C'est de la nage en eau libre pendant 30 km
 
 49
 00:04:57,920 --> 00:04:59,800
-Dans de l'eau qui peut vite changer d'aspect
+Dans de l'eau qui peut vite changer
 
 50
 00:05:01,079 --> 00:05:03,079
-Le lac Vättern peut être très très dur
+Le lac Vättern peut être très très exigent
 
 51
 00:05:04,600 --> 00:05:06,519
-Plus semblable à une mer
+Semblable à une mer
 
 52
 00:05:06,639 --> 00:05:08,639
@@ -234,7 +234,7 @@ Froid
 
 53
 00:05:09,759 --> 00:05:11,759
-Que dire de plus?
+Que dire de plus ?
 
 54
 00:05:14,319 --> 00:05:16,920
@@ -255,7 +255,7 @@ Ravitaillement après 1:02 heures et 4,1 kilomètres
 
 58
 00:05:28,600 --> 00:05:30,600
-Le lac est assez gentil
+Le lac est assez calme
 
 59
 00:05:31,000 --> 00:05:32,079
@@ -364,7 +364,7 @@ Répéter les mêmes mouvements pendant une longue période
 
 83
 00:07:23,839 --> 00:07:29,000
-On peut ressentir des douleurs qu'on a pas prévues
+On peut ressentir des douleurs qu'on n'a pas prévues
 
 84
 00:07:38,439 --> 00:07:40,439
@@ -376,7 +376,7 @@ On peut ressentir des douleurs qu'on a pas prévues
 
 86
 00:08:03,759 --> 00:08:07,360
-Pause alimentaire à 2:03 heures et 7,7 kilomètres
+Ravitaillement à 2:03 heures et 7,7 kilomètres
 
 87
 00:08:43,679 --> 00:08:49,559
@@ -402,7 +402,7 @@ J'ai changé mon style d'entraînement en passant d'intervalles
 
 92
 00:09:28,000 --> 00:09:32,080
-Pause alimentaire à 3:02 heures et 11.1 kilomètres
+Ravitaillement à 3:02 heures et 11.1 kilomètres
 
 93
 00:09:36,440 --> 00:09:39,480
@@ -422,7 +422,7 @@ Il était prévu un vent du nord à 8 mètres par seconde
 
 97
 00:09:55,120 --> 00:09:57,480
-Le pronostic était relativement correcte
+Les prévisions étaient relativement correctes
 
 98
 00:09:57,840 --> 00:10:02,000
@@ -449,7 +449,7 @@ en tout cas pour ma part
 
 103
 00:10:42,159 --> 00:10:44,799
-Pause alimentaire à 4:01 heures et 14,3 kilomètres
+Ravitaillement à 4:01 heures et 14,3 kilomètres
 
 104
 00:10:55,480 --> 00:10:57,039
@@ -457,7 +457,7 @@ Maintenant, nous commençons le compte à rebours
 
 105
 00:10:57,120 --> 00:10:57,559
-Quoi?
+Quoi ?
 
 106
 00:10:57,639 --> 00:10:59,559
@@ -469,11 +469,11 @@ Maintenant, nous commençons le compte à rebours
 
 108
 00:11:09,159 --> 00:11:09,679
-Quoi?
+Quoi ?
 
 109
 00:11:09,759 --> 00:11:11,759
-Veux tu plus de nourriture?
+Veux tu plus de nourriture ?
 
 110
 00:11:11,919 --> 00:11:15,480
@@ -482,7 +482,7 @@ dans le sac bleu
 
 111
 00:11:42,320 --> 00:11:45,000
-Pause alimentaire à 5:01 heures et 17,7 kilomètres
+Ravitaillement à 5:01 heures et 17,7 kilomètres
 
 112
 00:11:46,279 --> 00:11:53,399
@@ -491,7 +491,7 @@ toutes les demi-heure à partir d'ici
 
 113
 00:11:55,240 --> 00:11:56,320
-Comment ça va Andrzej?
+Comment ça va Andrzej ?
 
 114
 00:11:56,440 --> 00:11:59,799
@@ -505,12 +505,12 @@ C'est vraiment bon
 
 116
 00:12:03,840 --> 00:12:08,039
-Combien as-tu consommé? Où en es-tu?
-50%, 60%, 70%?
+Combien as-tu consommé ? Où en es-tu ?
+50%, 60%, 70% ?
 
 117
 00:12:08,159 --> 00:12:09,159
-De quoi?
+De quoi ?
 
 118
 00:12:09,279 --> 00:12:10,799
@@ -593,15 +593,15 @@ ce qui est meilleur pour la préparation longue distance
 
 135
 00:13:48,879 --> 00:13:50,879
-C'est bête d'interrompre un concept gagnant.
+C'est bête d'interrompre un concept gagnant
 
 136
 00:13:51,080 --> 00:13:54,080
-Pause alimentaire à 5:32 heures et 19,4 kilomètres
+Ravitaillement à 5:32 heures et 19,4 kilomètres
 
 137
 00:15:41,159 --> 00:15:44,159
-Pause alimentaire à 6:02 heures et 21,3 kilomètres
+Ravitaillement à 6:02 heures et 21,3 kilomètres
 
 138
 00:15:49,879 --> 00:15:52,600
@@ -617,11 +617,11 @@ Prends un peu de ce gel
 
 141
 00:15:57,519 --> 00:15:59,039
-Où est passé le vent?
+Où est passé le vent ?
 
 142
 00:15:59,039 --> 00:15:59,559
-Est-ce que tout vas bien?
+Est-ce que tout vas bien ?
 
 143
 00:15:59,559 --> 00:16:00,240
@@ -629,15 +629,15 @@ Oui
 
 144
 00:16:00,639 --> 00:16:02,440
-Souhaites tu plus de vent? :-)
+Souhaites tu plus de vent ? :-)
 
 145
 00:16:02,559 --> 00:16:04,559
-Le lac est comme un miroir
+Le lac est calme plat
 
 146
 00:16:04,759 --> 00:16:08,559
-Markus, peux tu me donner un peu de ce biscuit collant?
+Markus, peux tu me donner une barre énergétique ?
 
 147
 00:16:09,519 --> 00:16:10,600
@@ -687,7 +687,7 @@ Mais la semaine prochaine nous nous entraînons tous les jours
 
 157
 00:18:21,799 --> 00:18:23,799
-Peut-être une demi banane?
+Peut-être une demi banane ?
 
 158
 00:18:31,559 --> 00:18:34,119
@@ -704,7 +704,7 @@ tu peux commencer à nager le papillon
 
 161
 00:18:56,960 --> 00:18:59,960
-Pause alimentaire à 6:33 heures et 23.2 kilomètres
+Ravitaillement à 6:33 heures et 23.2 kilomètres
 
 162
 00:19:00,359 --> 00:19:03,119
@@ -724,7 +724,7 @@ Le bout de la palmeraie
 
 166
 00:19:45,759 --> 00:19:47,759
-Tu vois cette balise blanche?
+Tu vois cette balise blanche ?
 
 167
 00:19:47,880 --> 00:19:49,880
@@ -732,16 +732,16 @@ Tu vois cette balise blanche?
 
 168
 00:19:50,640 --> 00:19:52,640
-À droite de la balise?
+À droite de la balise ?
 
 169
 00:19:55,160 --> 00:19:59,119
-À droite de cette balise est tout droit devant
+À droite de cette balise et tout droit devant
 C'est là où nous allons
 
 170
 00:19:59,920 --> 00:20:01,400
-Il reste combien?
+Il reste combien ?
 
 171
 00:20:01,680 --> 00:20:02,480
@@ -749,7 +749,7 @@ Moins de cinq
 
 172
 00:20:02,480 --> 00:20:03,480
-Cinq kilomètres?
+Cinq kilomètres ?
 
 173
 00:20:03,480 --> 00:20:04,559
@@ -757,11 +757,11 @@ Oui
 
 174
 00:20:05,799 --> 00:20:07,799
-Crampes?
+Crampes ?
 
 175
 00:20:11,759 --> 00:20:13,759
-Ne pas panser
+Ne pas penser
 
 176
 00:20:21,799 --> 00:20:26,319
@@ -797,19 +797,19 @@ Mon corps se sentait toujours bien
 
 183
 00:21:04,440 --> 00:21:06,440
-Pause alimentaire à 7:32 heures et 26.6 kilomètres
+Ravitaillement à 7:32 heures et 26.6 kilomètres
 
 184
 00:21:06,680 --> 00:21:08,680
-Des crampes?
+Des crampes ?
 
 185
 00:21:10,319 --> 00:21:12,319
-Les doigts?
+Les doigts ?
 
 186
 00:21:13,240 --> 00:21:15,000
-Est-ce qui il reste des gels?
+Est-ce qui il reste des gels ?
 
 187
 00:21:15,160 --> 00:21:15,839
@@ -817,11 +817,11 @@ Oui
 
 188
 00:21:15,960 --> 00:21:17,960
-Est-ce que je peux l'avoir?
+Est-ce que je peux l'avoir ?
 
 189
 00:21:20,359 --> 00:21:21,359
-Est-ce cette balise?
+Est-ce cette balise ?
 
 190
 00:21:21,400 --> 00:21:23,400
@@ -833,7 +833,7 @@ Contourne ce promontoire
 
 192
 00:21:29,480 --> 00:21:30,680
-Est-ce que on y entre?
+Est-ce que on y entre ?
 
 193
 00:21:30,839 --> 00:21:33,319
@@ -841,7 +841,7 @@ Tout droit devant
 
 194
 00:22:05,599 --> 00:22:09,319
-Je fais aussi du vélo pour m'entrainer
+Je fais aussi du vélo pour m'entraîner
 
 195
 00:22:10,400 --> 00:22:17,119
@@ -854,25 +854,25 @@ C'est à environ 45 kilomètres l'aller
 
 197
 00:22:22,519 --> 00:22:31,799
-L'année dernière, j'ai accumulé 10.000 kilomètres
+L'année dernière, j'ai cumulé 10.000 kilomètres
 de mars à octobre
 
 198
 00:23:26,400 --> 00:23:28,400
-Papillon!
+Papillon !
 
 199
 00:23:30,599 --> 00:23:31,920
-Jusqu'à la jetée?
+Jusqu'à la jetée ?
 
 200
 00:23:31,920 --> 00:23:34,559
-Le bord de la première connexion à droite
+Le bord de la berge à droite
 
 201
 00:23:45,559 --> 00:23:48,680
 Ce fut une erreur
-J'ai eu des crampes aussitôt
+J'ai eu aussitôt des crampes
 
 202
 00:23:49,000 --> 00:23:52,839
@@ -891,16 +891,16 @@ je vais faire du papillon
 205
 00:23:58,079 --> 00:24:03,200
 Mais j'ai eu des crampes aux jambes
-au premier coup
+au premier mouvement
 
 206
 00:24:03,680 --> 00:24:05,680
-Ça m'apprendra à faire le paillasson
+Ça m'apprendra à faire le pitre
 
 207
 00:24:15,400 --> 00:24:17,920
-C'est insensé Andrzej!
-Quel exploit incroyable!
+C'est insensé Andrzej !
+Quel exploit incroyable !
 
 208
 00:24:18,200 --> 00:24:21,519
@@ -925,7 +925,7 @@ Beaucoup de gens te félicitent
 
 213
 00:24:41,000 --> 00:24:42,680
-As-tu vraiment pagayé tout le trajet?
+As-tu vraiment pagayé tout le trajet ?
 
 214
 00:24:42,680 --> 00:24:45,039
@@ -933,7 +933,7 @@ Oui, Markus a été d'une grande aide
 
 215
 00:24:47,799 --> 00:24:49,799
-Andrzej, continues tu dans le canal maintenant?
+Andrzej, continues tu dans le canal maintenant ?
 
 216
 00:24:51,960 --> 00:24:53,960
@@ -962,7 +962,7 @@ Je vais te donner un coup de main
 
 222
 00:25:35,720 --> 00:25:37,720
-Veux tu voir ton visage?
+Veux tu voir ton visage ?
 
 223
 00:25:38,960 --> 00:25:40,960
@@ -983,11 +983,12 @@ Les plus dur ont été les 300 premiers mètres
 227
 00:25:59,440 --> 00:26:02,839
 C'était atrocement froid
-Mais je ne pouvais pas abandonner si rapidement et revenir en arrière
+Mais je ne pouvais pas abandonner si rapidement
+et revenir en arrière
 
 228
 00:26:03,880 --> 00:26:05,440
-Est-ce que c'était froid au début?
+Est-ce que c'était froid au début ?
 
 229
 00:26:05,440 --> 00:26:08,240
@@ -1017,7 +1018,7 @@ Ils iront mieux d'ici peu
 235
 00:26:31,039 --> 00:26:33,759
 On aperçoit Motala là-bas
-On peut voir les mats de communication radio
+On peut voir les mâts de télécommunication radio
 
 236
 00:26:35,039 --> 00:26:36,680
