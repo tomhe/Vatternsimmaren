@@ -234,7 +234,7 @@ Sjön är ganska fin
 
 54
 00:05:34,920 --> 00:05:37,279
-Vill du ha fler kex?
+Vill du ha mera kex?
 
 55
 00:05:37,720 --> 00:05:40,800
@@ -259,7 +259,7 @@ Men vattnet går att dricka så ingen fara
 
 60
 00:05:55,319 --> 00:05:57,920
-Sedan fortsätta mot nästa stopp
+Sedan fortsätta till nästa stopp
 
 61
 00:05:58,079 --> 00:06:00,439
@@ -294,7 +294,7 @@ Mindre vågor, kanske en fördel
 68
 00:06:41,240 --> 00:06:46,120
 Under det här mötet beslutade vi
-att simma åt andrta hållet
+att simma åt andra hållet
 
 69
 00:06:46,399 --> 00:06:50,040
@@ -316,7 +316,7 @@ Det blir många timmar med samma rörelser
 
 73
 00:07:13,519 --> 00:07:16,000
-Det är som cykla, gå, eller springa
+Det är som att cykla, gå, eller springa
 
 74
 00:07:16,120 --> 00:07:20,079
@@ -387,7 +387,7 @@ Och det stämde ganska bra
 89
 00:09:57,840 --> 00:10:02,000
 Så fort vi hade passerat de här öarna så
-blev vågorna större
+blev vågorna högre
 
 90
 00:10:03,080 --> 00:10:05,080
@@ -400,7 +400,7 @@ Samtidigt blev vattnet långsamt varmare och varmare
 92
 00:10:10,240 --> 00:10:16,320
 Även en lite ändring i temperatur gör stor skillnad
-när man är kall eller känner att man är på gränsen
+när man fryser eller känner att man är på gränsen
 
 93
 00:10:17,279 --> 00:10:23,960
@@ -417,7 +417,7 @@ Vad sa du?
 
 96
 00:10:57,639 --> 00:10:59,559
-Nu börja vi räkna ner
+Nu börjar vi räkna ner
 
 97
 00:11:07,919 --> 00:11:08,840
@@ -437,7 +437,7 @@ Det finns mat till er i den blå väskan
 
 101
 00:11:46,279 --> 00:11:53,399
-De tycker att vi ska gå ner på matpaus
+De tycker att vi ska ta matpaus
 varje halvtimma sista biten
 
 102
@@ -481,7 +481,7 @@ Jag minns vid ett matstopp efter ungefär 15 kilometer
 
 111
 00:12:22,360 --> 00:12:27,559
-Så frågade Thomas Thor hur jag kände mig
+Då frågade Thomas Thor hur jag kände mig
 och hur mycket energi jag hade förbrukat
 
 112
@@ -508,7 +508,7 @@ Jag behövde komma igång så fort som möjligt
 
 117
 00:12:44,440 --> 00:12:46,440
-Kändes bra i kroppen vid halva sträckan
+Kändes bra i kroppen vid hälften
 
 118
 00:12:47,320 --> 00:12:49,320
@@ -516,7 +516,7 @@ Bara att ta sig till nästa timma
 
 119
 00:12:55,399 --> 00:13:00,200
-Som tur är så har vi två platser att simma på i Motala
+Som tur är har vi två platser att simma på i Motala
 En inomhus och en utomhus
 
 120
@@ -551,7 +551,7 @@ Tack
 
 127
 00:15:55,080 --> 00:15:57,519
-Ta lite gel, sådan där
+Ta lite gel, sådan där...
 
 128
 00:15:57,519 --> 00:15:59,039
@@ -587,7 +587,7 @@ En sådan gel kvar
 
 136
 00:17:18,319 --> 00:17:20,839
-Mesta simning görs i bassäng, själklart
+Mesta simningen görs i bassäng, själklart
 
 137
 00:17:21,839 --> 00:17:24,400
@@ -599,12 +599,12 @@ Vi ha haft möjlighet att simma i kanalen i Motala
 
 139
 00:17:28,079 --> 00:17:34,240
-Tisdagar och torsdagar så var det två dagar
+Tisdagar och torsdagar så var det två gånger
 per vecka för att öva med våtdräkten
 
 140
 00:17:53,519 --> 00:17:58,480
-Titts på slls zoner som kan bli irriterade av våtdräkten
+Titta på alla zoner som kan bli irriterade av våtdräkten
 Smörja sig ordentligt
 
 141
@@ -745,7 +745,7 @@ Fingrarna?
 
 173
 00:21:13,240 --> 00:21:15,000
-Har jagh en gel kvar?
+Har jag en gel kvar?
 
 174
 00:21:15,160 --> 00:21:15,839
@@ -818,7 +818,7 @@ Thomas Thor, han är alltid lite rolig
 
 190
 00:23:52,839 --> 00:23:55,240
-He bad mig simma lite fjäril
+Han bad mig simma lite fjäril
 
 191
 00:23:55,240 --> 00:23:57,680
@@ -917,7 +917,7 @@ Det svåraste var de första 300 meterna
 214
 00:25:59,440 --> 00:26:02,839
 Det var grymt kallt
-Men jag kan inte stanna här och vända om
+Men jag kunde inte stanna och vända om
 
 215
 00:26:03,880 --> 00:26:05,440
@@ -928,9 +928,9 @@ Var det kallt i början?
 Det var 13 grader va?
 
 217
-00:26:08,480 --> 00:26:10,480
+00:26:08,480 --> 00:26:11,480
 Ska jag fortsätta, ska jag fortsätta?
-Först 300 meterna var helt...
+Första 300 meterna var helt...
 
 218
 00:26:11,880 --> 00:26:13,720
@@ -938,7 +938,7 @@ Först 300 meterna var helt...
 
 219
 00:26:13,920 --> 00:26:15,720
-Nästan 17 här
+Och sedan nästan 17 här
 
 220
 00:26:15,839 --> 00:26:18,680
