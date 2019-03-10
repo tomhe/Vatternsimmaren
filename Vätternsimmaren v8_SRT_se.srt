@@ -27,7 +27,7 @@ Vi hade planerat att starta kl 8
 
 7
 00:01:12,120 --> 00:01:16,599
-Och jag tror att vi var färdiga att starta kl 7:45
+Och jag tror att vi var färdiga kl 7:45
 så jag började att klä på mig
 
 8
@@ -63,7 +63,8 @@ Det var riktigt påfrestande
 
 15
 00:02:20,120 --> 00:02:25,039
-Mitt ansikte var den enda delen som var utsatt för kylan
+Mitt ansikte var den enda delen
+som var utsatt för kylan
 
 16
 00:02:26,240 --> 00:02:31,560
@@ -82,15 +83,15 @@ Det skulle vara så löjligt att ge upp efter 100 meter
 19
 00:02:44,240 --> 00:02:48,479
 Så jag kör bara
-Jag könde så mycket tryck så jag kunde inte vända om
+Jag kände så mycket tryck så jag kunde inte vända om
 
 20
 00:02:49,439 --> 00:02:52,240
-Oavsett vad som händer så fortsätter jag till...
+Oavsett vad som händer så fortsätter jag tills ja...
 
 21
 00:02:52,479 --> 00:02:54,919
-Till allt stannar
+Tills allt stannar
 
 22
 00:03:05,599 --> 00:03:09,680
@@ -111,8 +112,8 @@ Jag flyttade till Frankrike när jag var 10 år gammal
 
 26
 00:03:21,120 --> 00:03:27,879
-Men snart är jag mer svensk än fransk
-eftersom jag tillbringat nästan hälften av mitt liv i Sverige nu
+Men snart är jag mer svensk än fransk genom att jag
+tillbringat nästan hälften av mitt liv i Sverige nu
 
 27
 00:03:31,919 --> 00:03:35,080
@@ -125,7 +126,7 @@ så det blev lite längre än planerat
 
 29
 00:03:42,520 --> 00:03:44,599
-Vad tror ni?
+Vad tror ni om det här nu då?
 Fixar han det?
 
 30
@@ -143,8 +144,8 @@ Men sedan blev det någon halv grad varmare
 
 33
 00:03:58,360 --> 00:04:03,919
-Det blåste östlig vind och det är typiskt
-för Varamon att värmen försvinner fort från viken
+Det blåste östlig vind och det är typiskt för
+Varamon att värmen försvinner fort från viken
 
 34
 00:04:04,039 --> 00:04:07,280
@@ -213,7 +214,7 @@ Vad mer kan man säga?
 
 49
 00:05:14,319 --> 00:05:16,920
-Man får gåshud av att tänka på det i bland
+Man får gåshud av att bara tänka på det i bland
 
 50
 00:05:18,079 --> 00:05:20,079
